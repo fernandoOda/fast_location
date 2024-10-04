@@ -5,7 +5,6 @@ A new Flutter project.
 Grupo 5
 
 Fernando Oda Seifert ,
-
 Guilherme Oda Seifert
 
 ## Getting Started
