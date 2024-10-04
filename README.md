@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Grupo 5
+
+Fernando Oda Seifert
+Guilherme Oda Seifert
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
